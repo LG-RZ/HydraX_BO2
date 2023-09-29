@@ -252,7 +252,7 @@ namespace HydraX
         /// <summary>
         /// Opens the Donation Page
         /// </summary>
-        private void DonateClick(object sender, RoutedEventArgs e) => System.Diagnostics.Process.Start("https://www.paypal.me/Scobalula");
+        private void DonateClick(object sender, RoutedEventArgs e) => System.Diagnostics.Process.Start("https://ko-fi.com/scobalula");
 
         /// <summary>
         /// Opens the Discord Invite

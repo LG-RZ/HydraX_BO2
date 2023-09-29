@@ -4,7 +4,7 @@
         <Viewbox xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Stretch="Uniform">
             <Canvas Width="245" Height="240" Background="#00FFFFFF">
                 <Canvas.RenderTransform>
-                    <TranslateTransform X="0" Y="0"/>
+                    <TranslateTransform X="-6" Y="0"/>
                 </Canvas.RenderTransform>
                 <Canvas.Resources/>
                 <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Fill="#FF606060" StrokeThickness="1.13389337">
